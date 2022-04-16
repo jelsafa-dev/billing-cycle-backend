@@ -1,3 +1,6 @@
+
+#Commands
+
 Create a new folder for the app
 mkdir my-money-app && cd my-money-app
 
